@@ -179,7 +179,7 @@ function quizComponent () {
         </div>
         <div class="${css.instruction}">
           Choose how strongly do you agree with the statement<br>
-          ( 1 - strongly disagree, 6 - strongly agree )
+          ( 1 - strongly disagree, 5 - strongly agree )
         </div>
         <div class="${css.back}" onclick=${back}>
            <div class="${css.backText}">Go back</div>
